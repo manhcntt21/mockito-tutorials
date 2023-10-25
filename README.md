@@ -10,7 +10,7 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 
 ***
 ### Các nội dung đề cập đến Mockito
-- [mock()]()
+- [mock()](./1-mock-method)
 - [spy()]()
 - [when()]()
 - [thenThrow()]()
