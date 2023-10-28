@@ -40,7 +40,9 @@ Giải thích:
 - Thay vì tại step 3, nó trả về kết quả là 10 như của real objet nhưng vì chúng ta đã định nghĩa hành vị của nó là trả về 15 nên tại 4 kết quả sẽ pass
 - Nếu tại 2 chúng ta comment lại thì nó không pass nữa vì lúc này nó dùng kết quả của real object vì hành vi của spy không được định nghĩa.
 ***
-Về cách sử dụng thì nó không khác nhiều với `mock()`, spy Object có tác dụng như là cầu nối giữa real objet và mock object. Giúp cho việc test một phần của đối tượng, trong khi vẫn giữ các phần khác.
+Về cách sử dụng thì nó không khác nhiều với `mock()`, spy Object có tác dụng như là cầu nối giữa real objet và mock object. Giúp cho việc test một phần của đối tượng, trong khi vẫn giữ các phần khác. 
+
+Nói cách khác, chúng ta vừa có thể gọi phương thức thật của object, vừa kết hợp giả lập kết quả của phương thức khác. Giúp cho việc test một chức năng trong toàn bộ chức năng được dễ dàng, linh hoạt hơn
 ***
 sự khác nhau giữa`spy()` vs `mock()`
 <table>
