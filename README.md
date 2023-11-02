@@ -12,7 +12,7 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 ### Các nội dung đề cập đến Mockito
 - [mock()](./1-mock-method)
 - [spy()](./2-spy-method)
-- [when()]()
+- [when()](./3-when-method)
 - [thenThrow()]()
 - [verify()]()
 - [times()]()
