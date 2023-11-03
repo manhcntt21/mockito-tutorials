@@ -14,7 +14,7 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 - [spy()](./2-spy-method)
 - [when()](./3-when-method)
 - [thenThrow()](./4-thenThrow)
-- [verify()]()
+- [verify()](./5-verify)
 - [times()]()
 - [never()]()
 - [any()]()
