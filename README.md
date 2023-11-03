@@ -23,5 +23,5 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 - [doReturn()](./11-doReturn)
 - [doThrow()](./12-doThrow-method)
 - [doAnswer()](./13-doAnswer-method)
-- [timeout()]()
+- [timeout()](./14-timeout-method)
 - [ArgumentMatchers]()
