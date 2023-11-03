@@ -19,7 +19,7 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 - [never()](./7-never-method)
 - [any()](./8-any-method)
 - [eq()](./9-eq-method)
-- [inOrder()]()
+- [inOrder()](./10-inOrder-method)
 - [doReturn()]()
 - [doAnswer()]()
 - [timeout()]()
