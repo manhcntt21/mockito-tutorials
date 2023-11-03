@@ -17,7 +17,7 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 - [verify()](./5-verify)
 - [times()](./6-time-method)
 - [never()](./7-never-method)
-- [any()]()
+- [any()](./8-any-method)
 - [eq()]()
 - [inOrder()]()
 - [doReturn()]()
