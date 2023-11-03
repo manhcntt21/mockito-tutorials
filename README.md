@@ -15,7 +15,7 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 - [when()](./3-when-method)
 - [thenThrow()](./4-thenThrow)
 - [verify()](./5-verify)
-- [times()]()
+- [times()](./6-time-method)
 - [never()]()
 - [any()]()
 - [eq()]()
