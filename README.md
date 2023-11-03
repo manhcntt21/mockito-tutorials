@@ -22,6 +22,6 @@ Repos này sẽ làm rõ một số nội dung cơ bản của Mockito, về ý 
 - [inOrder()](./10-inOrder-method)
 - [doReturn()](./11-doReturn)
 - [doThrow()](./12-doThrow-method)
-- [doAnswer()]()
+- [doAnswer()](./13-doAnswer-method)
 - [timeout()]()
 - [ArgumentMatchers]()
